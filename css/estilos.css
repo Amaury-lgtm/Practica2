@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 5px;
+    background-color: beige;
+}
+
+h1{
+    color: aqua;
+}
+
+h2{
+    color:aquamarine;
+    background-color: brown;
+}
+
+strong{
+    color:blue;
+}
+
+em{
+    color: blueviolet;
+}
+
+p{
+    text-align: justify;
+    text-indent: 60px;
+    font-size: 24px;
+}
+h1{
+    text-align: center;
+    color:bisque
+}
